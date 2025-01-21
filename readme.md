@@ -46,7 +46,6 @@ A simple **Electronic Health Record (EHR)** application built using **SwiftUI** 
 
 ---
 
-"""
 Code Structure
 
 Assignment1_masadiApp/
