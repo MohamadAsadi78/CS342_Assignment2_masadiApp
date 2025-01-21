@@ -3,6 +3,10 @@
 A simple **Electronic Health Record (EHR)** application built using **SwiftUI** and the new **`@Observable`** and **`@Environment`** APIs introduced in Swift 5.9. The app allows healthcare providers to manage patient records, including adding patients, viewing details, and prescribing medications.
 
 ---
+### AI Usage
+GPT-4o has been used to do the labor while I instructed it how to write the classes, what to include, and how to implement methods (e.g. which protocols to use, what the input output should be, what cases to handle and how to handle them, what functions to use in calculating date differences etc.)
+https://chatgpt.com/share/6784cfee-1cf8-800a-9a4d-404160ba744f
+---
 
 ## Features
 
