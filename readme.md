@@ -1,4 +1,4 @@
-# Assignment1_masadiApp
+# Assignment2_masadiApp
 
 A simple **Electronic Health Record (EHR)** application built using **SwiftUI** and the new **`@Observable`** and **`@Environment`** APIs introduced in Swift 5.9. The app allows healthcare providers to manage patient records, including adding patients, viewing details, and prescribing medications.
 
