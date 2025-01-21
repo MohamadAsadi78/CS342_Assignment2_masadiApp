@@ -44,8 +44,3 @@ A simple **Electronic Health Record (EHR)** application built using **SwiftUI** 
 - **Responsive UI**:
   - Automatically updates views when state changes, thanks to `@Observable`.
 
----
-
-Code Structure
-
-Assignment1_masadiApp/ ├── Models/ │ ├── Patient.swift # Patient model with @Observable for state tracking │ ├── PatientStore.swift # Centralized store for managing patients │ ├── Views/ │ ├── ContentView.swift # Root view of the app │ ├── PatientListView.swift # Displays the list of all patients │ ├── NewPatientForm.swift # Form to add new patients │ ├── PatientDetailView.swift # Detailed view of a selected patient │ ├── PrescribeMedicationView.swift # Form to add medications │ ├── Tests/ │ ├── UITests/ # UI tests for validating functionality │ ├── UnitTests/ # Unit tests for models and logic
